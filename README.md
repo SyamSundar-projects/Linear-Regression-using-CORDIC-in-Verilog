@@ -1,1 +1,2 @@
-# Linear-Regression-using-CORDIC-in-Verilog
+# Linear-Regression-using-CORDIC-in-Verilo
+Linear Regression is the basic and important Machine Learning algorithm to map and predict continuous linear data.I have implement it using statistical properties like mean,standard Deviation and correlation the presentation gives idea how to compute using these statistical properties.The spreadsheets gives the idea what happens in each iteration.I have uploaded the spreadsheets to compute linear regression using statistical properties and gradient descent.
